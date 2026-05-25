@@ -1,5 +1,5 @@
 auth:
-  message: welcome to order platform auth related prod webhook apis
+  message: welcome to order platform auth related PRODUCTION webhook apis
   contactDetails:
     name: Abhi-Developer
     email: "{cipher}b12f1d61f4d350b2d0eeaf03729a6d9760636e7a50f8e4872bac80bbe76edadd"
